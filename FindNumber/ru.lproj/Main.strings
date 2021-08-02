@@ -1,0 +1,90 @@
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "4KR-Us-si7"; */
+"4KR-Us-si7.normalTitle" = "5";
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "4Kr-ht-08S"; */
+"4Kr-ht-08S.normalTitle" = "7";
+
+/* Class = "UILabel"; text = "30 сек."; ObjectID = "5Fp-rd-HQl"; */
+"5Fp-rd-HQl.text" = "30 сек.";
+
+/* Class = "UIButton"; normalTitle = "Новая игра"; ObjectID = "6IJ-mm-frf"; */
+"6IJ-mm-frf.normalTitle" = "Новая игра";
+
+/* Class = "UIButton"; normalTitle = "11"; ObjectID = "7nG-uk-5EO"; */
+"7nG-uk-5EO.normalTitle" = "11";
+
+/* Class = "UIButton"; normalTitle = "14"; ObjectID = "CGA-is-bx4"; */
+"CGA-is-bx4.normalTitle" = "14";
+
+/* Class = "UINavigationItem"; title = "Меню"; ObjectID = "DDM-ma-pzS"; */
+"DDM-ma-pzS.title" = "Меню";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "EVE-3o-yPA"; */
+"EVE-3o-yPA.normalTitle" = "4";
+
+/* Class = "UIButton"; normalTitle = "Рекорд"; ObjectID = "IYQ-xf-voq"; */
+"IYQ-xf-voq.normalTitle" = "Рекорд";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "JJ6-2y-NxM"; */
+"JJ6-2y-NxM.normalTitle" = "3";
+
+/* Class = "UIButton"; normalTitle = "Новая игра"; ObjectID = "KZg-oO-Ei8"; */
+"KZg-oO-Ei8.normalTitle" = "Новая игра";
+
+/* Class = "UIButton"; normalTitle = "Настройки по умолчанию"; ObjectID = "KgD-cG-QNd"; */
+"KgD-cG-QNd.normalTitle" = "Настройки по умолчанию";
+
+/* Class = "UILabel"; text = "Таймер"; ObjectID = "Lcd-Pi-AC3"; */
+"Lcd-Pi-AC3.text" = "Таймер";
+
+/* Class = "UIButton"; normalTitle = "Настройки"; ObjectID = "Quf-zF-gbR"; */
+"Quf-zF-gbR.normalTitle" = "Настройки";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TnT-8m-EWd"; */
+"TnT-8m-EWd.text" = "Label";
+
+/* Class = "UILabel"; text = "Игра началась"; ObjectID = "W5l-w1-REj"; */
+"W5l-w1-REj.text" = "Игра началась";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "Zrt-vJ-H2j"; */
+"Zrt-vJ-H2j.normalTitle" = "2";
+
+/* Class = "UIButton"; normalTitle = "15"; ObjectID = "b5R-nw-KzS"; */
+"b5R-nw-KzS.normalTitle" = "15";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "bJD-xX-sm9"; */
+"bJD-xX-sm9.normalTitle" = "8";
+
+/* Class = "UILabel"; text = "Время игры"; ObjectID = "c08-96-VBv"; */
+"c08-96-VBv.text" = "Время игры";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "c4x-k7-rbv"; */
+"c4x-k7-rbv.normalTitle" = "6";
+
+/* Class = "UIButton"; normalTitle = "12"; ObjectID = "fGi-WJ-kei"; */
+"fGi-WJ-kei.normalTitle" = "12";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "hfa-Qx-rFh"; */
+"hfa-Qx-rFh.normalTitle" = "1";
+
+/* Class = "UINavigationItem"; title = "Настройки"; ObjectID = "o1t-3o-RRg"; */
+"o1t-3o-RRg.title" = "Настройки";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "pMj-Vh-mLX"; */
+"pMj-Vh-mLX.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "10"; ObjectID = "rUc-iN-lqv"; */
+"rUc-iN-lqv.normalTitle" = "10";
+
+/* Class = "UIButton"; normalTitle = "16"; ObjectID = "scF-mR-fqf"; */
+"scF-mR-fqf.normalTitle" = "16";
+
+/* Class = "UIButton"; normalTitle = "13"; ObjectID = "xzz-3y-Mjv"; */
+"xzz-3y-Mjv.normalTitle" = "13";
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "yb2-Tz-pxv"; */
+"yb2-Tz-pxv.normalTitle" = "9";
+
+/* Class = "UINavigationItem"; title = "Рекорд"; ObjectID = "zib-GC-c0N"; */
+"zib-GC-c0N.title" = "Рекорд";
